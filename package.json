@@ -1,0 +1,21 @@
+{
+  "name": "figmaprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "figmaprint.js",
+  "bin": "figmaprint.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.5.0",
+    "readstdin": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
